@@ -1,0 +1,27 @@
+{
+  "cars": [{
+    "make": "Nissan",
+    "model": "Rogue",
+    "year": "2006",
+    "price": "8999",
+    "color": "FireBrick",
+    "purchased": false,
+    "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+  }, {
+    "make": "BMW",
+    "model": "530i",
+    "year": "2008",
+    "price": "11999",
+    "color": "Black",
+    "purchased": false,
+    "description": "This is an immaculate 2008 BMW 530i with only 20000 miles on it. Leather seats, power everything."
+  }, {
+    "make": "Nissan 2",
+    "model": "Altima",
+    "year": "2008",
+    "price": "8999",
+    "color": "Red",
+    "purchased": false,
+    "description": "This is an immaculate 2008 Nissan Altima with only 25000 miles on it. Leather seats, power everything."
+  }]
+}
