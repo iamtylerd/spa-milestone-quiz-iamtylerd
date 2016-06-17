@@ -5,3 +5,6 @@
 .carCard p {
 	word-break: break-all;
 }
+.borderCard {
+	border-width: thick;
+}

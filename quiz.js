@@ -43,6 +43,7 @@ var carLot = (function () {
 		          
 				augments.border(allCarColors);
 				activeEvents.focus();
+				activeEvents.listenerForChange();
 				
 			});
 			carLoader.open("GET", "inventory.json");
