@@ -1,0 +1,10 @@
+.carCard {
+	border: 2px solid;
+
+}
+.carCard p {
+	word-break: break-all;
+}
+.borderCard {
+	border-width: thick;
+}
